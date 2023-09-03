@@ -1,5 +1,6 @@
 ---
 date: yyyy-mm-dd
+contributor: lastname
 tags: 
   - topic 1
   - topic 2

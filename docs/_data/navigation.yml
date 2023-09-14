@@ -1,19 +1,19 @@
 # main links links
 main:
-  - title: "CV"
-    url: https://johnbasl.github.io/files/CV.pdf
+  #- title: "CV"
+    #url: https://johnbasl.github.io/files/CV.pdf
     
-  - title: "Research"
-    url: /research/
+  #- title: "Research"
+    #url: /research/
    
-  - title: "Affiliations and Projects"
-    url: /projects/
+  #- title: "Affiliations and Projects"
+    #url: /projects/
 
-  - title: "Media and Talks"
-    url: /talks/    
+  - title: "Course Notes"
+    url: /Notes/    
 
-  - title: "Personal"
-    url: /personal/
+  #- title: "Personal"
+    #url: /personal/
     
   #- title: "Publications"
    # url: /publications/

@@ -150,6 +150,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - ../2023_Fall_THV_1145
 keep_files:
   - .git
   - .svn

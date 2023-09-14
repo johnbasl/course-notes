@@ -1,7 +1,6 @@
 ---
 title: "AV notes"
 collection: notes
-type: "article"
 permalink: 
 date: 2019-04-26
 ---

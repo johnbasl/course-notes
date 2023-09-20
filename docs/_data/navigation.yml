@@ -1,0 +1,34 @@
+# main links links
+main:
+  #- title: "CV"
+    #url: https://johnbasl.github.io/files/CV.pdf
+    
+  #- title: "Research"
+    #url: /research/
+   
+  #- title: "Affiliations and Projects"
+    #url: /projects/
+
+  - title: "Course Notes"
+    url: https://johnbasl.net/course-notes/notes/    
+
+  #- title: "Personal"
+    #url: /personal/
+    
+  #- title: "Publications"
+   # url: /publications/
+   
+  #- title: "Teaching"
+   # url: /teaching/    
+        
+  #- title: "Blog Posts"
+   # url: /year-archive/
+    
+  #- title: "CV"
+   # url: /cv/
+    
+  #- title: "Guide"
+    #url: /markdown/
+
+  #- title: "Portfolio"
+   # url: /portfolio/
